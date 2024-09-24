@@ -2,7 +2,7 @@
 <items>
   <main>
     <user_id>320271</user_id>
-    <msg_count>20240923-001</msg_count>
+    <msg_count>1</msg_count> <!-- Sludinājumu skaits failā -->
   </main>
   <msg category="/production-work/firewood/other/" sid="Pārdod" internal_id="20240923-002">
     <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu. Strādājam visā Latvijas teritorijā. Mūsu komanda ir gatava palīdzēt sakopt Jūsu īpašumu. Zvaniet, rakstiet - atradīsim risinājumu.</text>
@@ -18,3 +18,4 @@
     </options>
   </msg>
 </items>
+
