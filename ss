@@ -1,0 +1,24 @@
+//Ražošana : Malka, briketes, granulas : Cits
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<main>
+<user_id>320271</user_id>
+<msg_count>1</msg_count>
+</main>
+<msg category="/production-work/firewood/other/" sid="Pārdod" internal_id="1">
+<text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu. Strādājam visā Latvijas teritorijā. Mūsu komanda ir gatava palīdzēt sakopt Jūsu īpašumu. Zvaniet, rakstiet - atradīsim risinājumu.</text>
+<phones>26175535</phones>
+  <email>solar.baltic@gmail.com</email>
+  
+  <images>
+<imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441303774-min.jpg</imgs>
+<imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441926185.JPG</imgs>
+  </images>
+<options>
+<opt name="Atrašanās vieta">Nozīme</opt>
+<opt name="Pilsētas rajons, pagasts">Nozīme</opt>
+  <opt name="Cena" currency="€|€/t.|€/m³">Nozīme</opt>
+  <opt name="Ražošana">Malka, briketes, granulas, Cits</opt>
+</options>
+</msg>
+</items>
