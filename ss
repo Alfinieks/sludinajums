@@ -17,7 +17,7 @@
 <options>
 <opt name="Atrašanās vieta">Nozīme</opt>
 <opt name="Pilsētas rajons, pagasts">Nozīme</opt>
-  
+  <opt name="Cena" currency="€" vat="0|1">Nozīme</opt>
   <opt name="Ražošana">Malka, briketes, granulas, Cits</opt>
 </options>
 </msg>
