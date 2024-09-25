@@ -15,7 +15,7 @@
     <options>
       <opt name="Atrašanās vieta">Cits</opt>
       <opt name="Pilsētas rajons, pagasts">Cits</opt>
-      <opt name="Cena" currency="€|€/t.|€/m³">cits €/m³</opt>
+      <opt name="Cena" currency="€|€/t.|€/m³"> €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
   </msg>
