@@ -3,7 +3,7 @@
     <user_id>320271</user_id>
     <msg_count>1</msg_count>
   </main>
-  <msg category="/production-work/firewood/other/" sid="Pārdod" internal_id="1">
+  <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="1">
     <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu...</text>
     <phones>26175535</phones>
     <email>solar.baltic@gmail.com</email>
@@ -13,9 +13,9 @@
       <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441926185.JPG</imgs>
     </images>
     <options>
-      <opt name="Atrašanās vieta">Rīga</opt>
-      <opt name="Pilsētas rajons, pagasts">Centrs</opt>
-      <opt name="Cena" currency="EUR">100 €/m³</opt>
+      <opt name="Atrašanās vieta">Cits</opt>
+      <opt name="Pilsētas rajons, pagasts">Cits</opt>
+      <opt name="Cena" currency="EUR">0 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
   </msg>
