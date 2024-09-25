@@ -15,7 +15,7 @@
     <options>
       <opt name="Atrašanās vieta">Rīga</opt>
       <opt name="Pilsētas rajons, pagasts">Centrs</opt>
-      <opt name="Cena" currency="€|€/t.|€/m³">100 €/m³</opt>
+      <opt name="Mērvienība">€/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
   </msg>
