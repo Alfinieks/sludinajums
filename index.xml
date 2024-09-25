@@ -1,4 +1,3 @@
-//Ražošana : Malka, briketes, granulas : Cits
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
   <main>
@@ -13,9 +12,5 @@
       <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441303774-min.jpg</imgs>
       <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441926185.JPG</imgs>
     </images>
-    <options>
-      <opt name="Atrašanās vieta">Nozīme</opt>
-      <opt name="Pilsētas rajons, pagasts">Nozīme</opt>
-    </options>
   </msg>
 </items>
