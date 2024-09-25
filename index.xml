@@ -5,7 +5,7 @@
   </main>
   <msg category="/production-work/firewood/other/" sid="Pārdod" internal_id="1">
     <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu...</text>
-    <phones>26175535; 22334455</phones>
+    <phones>26175535</phones>
     <email>solar.baltic@gmail.com</email>
     <url>www.example.com</url>
     <images>
@@ -15,7 +15,7 @@
     <options>
       <opt name="Atrašanās vieta">Rīga</opt>
       <opt name="Pilsētas rajons, pagasts">Centrs</opt>
-      <opt name="Mērvienība">€/m³</opt>
+      <opt name="Cena" currency="EUR">100 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
   </msg>
