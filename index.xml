@@ -7,17 +7,16 @@
     <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu...</text>
     <phones>26175535; 22334455</phones>
     <email>solar.baltic@gmail.com</email>
-    <url>https://perkamzarus.lv/</url>
+    <url>www.example.com</url>
     <images>
       <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441303774-min.jpg</imgs>
       <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441926185.JPG</imgs>
     </images>
     <options>
-      <opt name="Atrašanās vieta">Cits</opt>
-      <opt name="Pilsētas rajons, pagasts">Cits</opt>
-      
+      <opt name="Atrašanās vieta">Rīga</opt>
+      <opt name="Pilsētas rajons, pagasts">Centrs</opt>
+      <opt name="Cena" currency="€|€/t.|€/m³">100 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
   </msg>
 </items>
-
