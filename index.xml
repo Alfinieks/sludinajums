@@ -18,20 +18,5 @@
       <opt name="Cena" currency="EUR">0 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
- <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="1">
-    <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu...</text>
-    <phones>24874611</phones>
-    <email>allfa.gee@gmail.com</email>
-    <url>www.example.com</url>
-    <images>
-      <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441303774-min.jpg</imgs>
-      <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441926185.JPG</imgs>
-    </images>
-    <options>
-      <opt name="Atrašanās vieta">Cits</opt>
-      <opt name="Pilsētas rajons, pagasts">Cits</opt>
-      <opt name="Cena" currency="EUR">0 €/m³</opt>
-      <opt name="Ražošana">Malka</opt>
-    </options>
   </msg>
 </items>
