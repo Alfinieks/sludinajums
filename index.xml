@@ -1,7 +1,7 @@
 <items>
   <main>
     <user_id>956579</user_id>
-    <msg_count>2</msg_count>
+    <msg_count>1</msg_count>
   </main>
   <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="1">
     <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu...</text>
@@ -18,8 +18,8 @@
       <opt name="Cena" currency="EUR">0 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
-    <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="2">
-    <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu...</text>
+    <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="1">
+    <text>Nopirksim zarus, krūmus..</text>
     <phones>24874611</phones>
     <email>allfa.gee@gmail.com</email>
     <url>www.example.com</url>
