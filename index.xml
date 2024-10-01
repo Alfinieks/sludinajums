@@ -1,0 +1,37 @@
+<items>
+  <main>
+    <user_id>320271</user_id>
+    <msg_count>1</msg_count>
+  </main>
+  <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="1">
+    <text>Nopirksim zarus, krūmus, jebkuru šķeldojamo materiālu...</text>
+    <phones>26175535</phones>
+    <email>solar.baltic@gmail.com</email>
+    <url>www.example.com</url>
+    <images>
+      <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441303774-min.jpg</imgs>
+      <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441926185.JPG</imgs>
+    </images>
+    <options>
+      <opt name="Atrašanās vieta">Cits</opt>
+      <opt name="Pilsētas rajons, pagasts"> </opt>
+      <opt name="Cena" currency="EUR">0 €/m³</opt>
+      <opt name="Ražošana">Malka</opt>
+    </options>
+    <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="1">
+    <text>Nopirksim zarus</text>
+    <phones>26175535</phones>
+    <email>solar.baltic@gmail.com</email>
+    <url>www.example.com</url>
+    <images>
+      <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441303774-min.jpg</imgs>
+      <imgs>https://www.ekomezs.lv/uploads/cms/images/services/large/15441926185.JPG</imgs>
+    </images>
+    <options>
+      <opt name="Atrašanās vieta">Cits</opt>
+      <opt name="Pilsētas rajons, pagasts"> </opt>
+      <opt name="Cena" currency="EUR">0 €/m³</opt>
+      <opt name="Ražošana">Malka</opt>
+    </options>
+  </msg>
+</items>
