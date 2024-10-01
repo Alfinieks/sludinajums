@@ -14,7 +14,7 @@
     </images>
     <options>
       <opt name="Atrašanās vieta">Cits</opt>
-      <opt name="Pilsētas rajons, pagasts"> </opt>
+      <opt name="Pilsētas rajons, pagasts"></opt>
       <opt name="Cena" currency="EUR">0 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
@@ -30,7 +30,7 @@
     </images>
     <options>
       <opt name="Atrašanās vieta">Cits</opt>
-      <opt name="Pilsētas rajons, pagasts"> </opt>
+      <opt name="Pilsētas rajons, pagasts"></opt>
       <opt name="Cena" currency="EUR">0 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
