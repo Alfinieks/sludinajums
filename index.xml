@@ -18,7 +18,7 @@
       <opt name="Cena" currency="EUR">0 €/m³</opt>
       <opt name="Ražošana">Malka</opt>
     </options>
-    <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="1">
+    <msg category="/production-work/firewood/other/" sid="Pērk" internal_id="2">
     <text>Nopirksim zarus, krūmus..</text>
     <phones>24874611</phones>
     <email>allfa.gee@gmail.com</email>
